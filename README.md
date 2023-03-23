@@ -15,13 +15,13 @@ In this approach, we train a single neural network that returns a group and styl
 
 ### [2. Hierarchical Approach](https://github.com/zojabutenko/BEERT/tree/main/notebooks/hierarchical)
 
-In this approach, we train two neural networks. The first one is trained on reviews and returns a group of the beer. The second one is trained on the fusions of Group and Text and returns a style.
+In this approach, we train two neural networks. The first one is trained on reviews and returns a group of the beer. The second one is trained on the fusions of Group and Reviews and returns a style.
 
 ![enter image description here](https://i.ibb.co/80PNHGB/hier.png)
 
 ### [3. **Hierarchical-Separate Approach**](https://github.com/zojabutenko/BEERT/tree/main/notebooks/hierarchical-separate)
 
-In this approach, we use the first network from Hierarchical approach that predicts the Group, and train separate neural networks for each group (13 in total). 
+In this approach, we use the first network from Hierarchical approach that predicts the Group, and train separate neural networks for each group (13 in total) that return a style.
 
 ![enter image description here](https://i.ibb.co/5F4ZH6d/hier-sep.png)
 
