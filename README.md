@@ -25,3 +25,7 @@ In this approach, we use the first network from Hierarchical approach that predi
 
 ![enter image description here](https://i.ibb.co/5F4ZH6d/hier-sep.png)
 
+## User Interface for the  models
+
+To be able to conveniently use the models, we have developed a user interface that looks as follows:
+![enter image description here](https://i.ibb.co/StNN49D/web.png)
