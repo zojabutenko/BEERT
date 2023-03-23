@@ -5,6 +5,8 @@
 
 The data that the networks were trained with are reviews from the [BeerAdvocate](https://www.beeradvocate.com/) website.
 
+[Models](https://drive.google.com/drive/folders/1Uvz88ys4n1u0cPb2gL9ieMg1m59PpYaE)
+
 The following approaches have been tested:
 
 ### [**1. Flat Approach**](https://github.com/zojabutenko/BEERT/tree/main/notebooks/flat)
