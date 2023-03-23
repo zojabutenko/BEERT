@@ -1,6 +1,6 @@
 # BEERT
 
-BEERT project for the course Neural network methods in word processing.
+BEERT project for the course Neural network methods in text processing.
 
 The project consisted of 3 points:
 
