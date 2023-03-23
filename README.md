@@ -25,6 +25,8 @@ In this approach, we use the first network from Hierarchical approach that predi
 
 ![enter image description here](https://i.ibb.co/7jPHd54/hier-sep.png)
 
+The models are available for download [here](https://drive.google.com/file/d/1siVzANkbX6Mi2NGZkehBhC4vV8PeyPZu/view?usp=share_link).
+
 ## User Interface for the  models
 
 To be able to conveniently use the models, we have developed a user interface that looks as follows:
