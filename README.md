@@ -23,7 +23,7 @@ In this approach, we train two neural networks. The first one is trained on revi
 
 In this approach, we use the first network from Hierarchical approach that predicts the Group, and train separate neural networks for each group (13 in total) that return a style.
 
-![enter image description here](https://i.ibb.co/5F4ZH6d/hier-sep.png)
+![enter image description here](https://i.ibb.co/7jPHd54/hier-sep.png)
 
 ## User Interface for the  models
 
