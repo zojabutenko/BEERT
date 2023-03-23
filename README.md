@@ -5,8 +5,6 @@
 
 The data that the networks were trained with are reviews from the [BeerAdvocate](https://www.beeradvocate.com/) website.
 
-[Models](https://drive.google.com/drive/folders/1Uvz88ys4n1u0cPb2gL9ieMg1m59PpYaE)
-
 The following approaches have been tested:
 
 ### [**1. Flat Approach**](https://github.com/zojabutenko/BEERT/tree/main/notebooks/flat)
@@ -27,7 +25,7 @@ In this approach, we use the first network from Hierarchical approach that predi
 
 ![enter image description here](https://i.ibb.co/7jPHd54/hier-sep.png)
 
-The models are available for download [here](https://drive.google.com/file/d/1siVzANkbX6Mi2NGZkehBhC4vV8PeyPZu/view?usp=share_link).
+The models are available for download [here](https://drive.google.com/drive/folders/1Uvz88ys4n1u0cPb2gL9ieMg1m59PpYaE).
 
 ## User Interface for the  models
 
