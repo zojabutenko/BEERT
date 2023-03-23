@@ -1,4 +1,4 @@
-## BEERT - Beer Advisor With Bert
+## 🍺 BEERT - Beer Advisor With Bert
 
 ### Welcome to Beert, a neural network(s) that helps you choose a beer for an evening with just one query. The network can recommend  both a group and a style of the beer. 
 
