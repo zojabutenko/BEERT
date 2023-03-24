@@ -13,7 +13,7 @@ In this approach, we train a single neural network that returns a group and styl
 
 ![enter image description here](https://i.ibb.co/F4dFKs1/flat.png)
 
-The model is available for download [here](https://drive.google.com/file/d/1-6PPQumcDLr9wE5PGQ55g_2Hxdn6WZ1e/view?usp=share_link)
+The model is available for download [here](https://drive.google.com/file/d/1-6PPQumcDLr9wE5PGQ55g_2Hxdn6WZ1e/view?usp=share_link).
 
 ### [2. Hierarchical Approach](https://github.com/zojabutenko/BEERT/tree/main/notebooks/hierarchical)
 
@@ -21,7 +21,7 @@ In this approach, we train two neural networks. The first one is trained on revi
 
 ![enter image description here](https://i.ibb.co/80PNHGB/hier.png)
 
-The first model is available [here](https://drive.google.com/file/d/1Snw6Wq4QG6K2wotjiQGnML5yxnBCNpD4/view?usp=share_link) and the second classifier is [here](https://drive.google.com/file/d/1aeMgECcim2KzRJV9R3pmJejLDNEqU58O/view?usp=share_link)
+The first model is available [here](https://drive.google.com/file/d/1Snw6Wq4QG6K2wotjiQGnML5yxnBCNpD4/view?usp=share_link) and the second classifier is [here](https://drive.google.com/file/d/1aeMgECcim2KzRJV9R3pmJejLDNEqU58O/view?usp=share_link).
 
 ### [3. **Hierarchical-Separate Approach**](https://github.com/zojabutenko/BEERT/tree/main/notebooks/hierarchical-separate)
 
